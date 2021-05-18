@@ -1,3 +1,12 @@
 venv*
 *.DS_Store*
-.ipynb-checkpoints
+data/raw_data/combined-dataset.pkl
+.ipynb_checkpoints
+models
+data_new
+depr
+.vscode
+test_data
+results_in
+__pycache__
+._*
