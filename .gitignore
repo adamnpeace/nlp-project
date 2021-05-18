@@ -3,7 +3,6 @@ venv*
 data/raw_data/combined-dataset.pkl
 .ipynb_checkpoints
 models
-data
 data_new
 depr
 .vscode
