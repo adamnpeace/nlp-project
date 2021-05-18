@@ -1,6 +1,6 @@
 # NLP Project COMP0087 UCL
 
-To run our inference, please visit [our Google Colab Notebook](https://colab.research.google.com/github/adamnpeace/nlp-project/blob/final-touches/final_inference.ipynb)
+To run our inference, please visit [our Google Colab Notebook](https://colab.research.google.com/github/adamnpeace/nlp-project/blob/main/final_inference.ipynb)
 
 To replicate our results, the following order should be used:
 
@@ -12,6 +12,6 @@ To replicate our results, the following order should be used:
 5. Run `eval-T5.ipynb` (This will run without step 4.)
 6. Run `metrics.ipynb`
 
-If you just want to test our models, please refer to the inference [notebook on Colab](https://colab.research.google.com/github/adamnpeace/nlp-project/blob/final-touches/final_inference.ipynb).
+If you just want to test our models, please refer to the inference [notebook on Colab](https://colab.research.google.com/github/adamnpeace/nlp-project/blob/main/final_inference.ipynb).
 
 *Authored by Shirin Harandi, Ksenia Pavlina, Adam Peace, Ralf Michael Yap*
