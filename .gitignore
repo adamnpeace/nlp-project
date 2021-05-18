@@ -1,4 +1,6 @@
 venv*
 *.DS_Store*
-.ipynb-checkpoints
 data/raw_data/combined-dataset.pkl
+.ipynb_checkpoints
+models
+
